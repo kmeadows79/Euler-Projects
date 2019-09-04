@@ -1,0 +1,9 @@
+[{
+  "file": "E:\\Programming\\Euler-Projects\\2-Even-Fibonacci-numbers\\main.cpp",
+  "directory": "E:\\Programming\\Euler-Projects\\2-Even-Fibonacci-numbers",
+  "command": "clang  -c E:\\Programming\\Euler-Projects\\2-Even-Fibonacci-numbers\\main.cpp -o E:\\Programming\\Euler-Projects\\2-Even-Fibonacci-numbers\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "E:\\Programming\\Euler-Projects\\1-Multiples-of-3-and-5\\main.cpp",
+  "directory": "E:\\Programming\\Euler-Projects\\1-Multiples-of-3-and-5",
+  "command": "clang  -c E:\\Programming\\Euler-Projects\\1-Multiples-of-3-and-5\\main.cpp -o E:\\Programming\\Euler-Projects\\1-Multiples-of-3-and-5\\main.cpp.o -target x86_64-pc-windows-gnu -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++ -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\mingw32 -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include\\c++\\backward -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include -Ic:\\MinGW\\include -Ic:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include-fixed -I. -I.  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]

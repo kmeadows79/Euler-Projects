@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Workspace Name="Euler-Projects" Database="" Version="10.0.0"/>
+<CodeLite_Workspace Name="Euler-Projects" Database="" Version="10.0.0">
+  <Project Name="1-Multiples-of-3-and-5" Path="1-Multiples-of-3-and-5/1-Multiples-of-3-and-5.project" Active="No"/>
+  <Project Name="2-Even-Fibonacci-numbers" Path="2-Even-Fibonacci-numbers/2-Even-Fibonacci-numbers.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="1-Multiples-of-3-and-5" ConfigName="Debug"/>
+      <Project Name="2-Even-Fibonacci-numbers" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="1-Multiples-of-3-and-5" ConfigName="Release"/>
+      <Project Name="2-Even-Fibonacci-numbers" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
